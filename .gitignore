@@ -31,3 +31,5 @@ Thumbs.db
 ### Application Properties ###
 # Uncomment if application.properties contains passwords
 # src/main/resources/application.properties
+
+src/main/resources/static/img/profile_img/
